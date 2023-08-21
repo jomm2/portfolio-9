@@ -42,7 +42,7 @@ function nextSlide() {
 }
 
 // Set timer to switch slides automatically every 3 seconds
-setInterval(nextSlide, 7000);
+setInterval(nextSlide, 4000);
 
 // Optional: Add navigation buttons
 const prevButton = document.querySelector('.bott--left');
